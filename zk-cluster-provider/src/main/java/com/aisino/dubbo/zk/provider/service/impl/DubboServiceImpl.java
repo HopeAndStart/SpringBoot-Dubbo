@@ -15,7 +15,7 @@ public class DubboServiceImpl implements DubboService {
     
     @Override
     public String dubboProtocolTest (String dubboParameter) {
-        return "Dubbo协议测试成功!";
+        return dubboParameter;
     }
     
 }
