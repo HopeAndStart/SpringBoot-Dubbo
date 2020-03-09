@@ -8,7 +8,7 @@
         <version>2.2.5.RELEASE</version>
         <relativePath/>
     </parent>
-    <groupId>com.aisino.dubbo</groupId>
+    <groupId>com.dubbo</groupId>
     <artifactId>zk-cluster</artifactId>
     <version>1.0</version>
     <name>zk-cluster</name>
@@ -38,7 +38,7 @@
         <dependencies>
 
             <dependency>
-                <groupId>com.aisino.dubbo</groupId>
+                <groupId>com.dubbo</groupId>
                 <artifactId>zk-cluster-service</artifactId>
                 <version>${zk-cluster-version}</version>
             </dependency>

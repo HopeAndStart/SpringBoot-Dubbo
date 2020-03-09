@@ -1,6 +1,6 @@
-package com.aisino.dubbo.zk.provider.service.impl;
+package com.dubbo.zk.provider.service.impl;
 
-import com.aisino.dubbo.zk.service.DubboService;
+import com.dubbo.zk.service.DubboService;
 import org.apache.dubbo.config.annotation.Service;
 import org.springframework.stereotype.Component;
 

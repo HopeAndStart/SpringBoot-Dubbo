@@ -1,6 +1,6 @@
-package com.aisino.duubo.zk.consumer.controller;
+package com.duubo.zk.consumer.controller;
 
-import com.aisino.dubbo.zk.service.DubboService;
+import com.dubbo.zk.service.DubboService;
 import org.apache.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

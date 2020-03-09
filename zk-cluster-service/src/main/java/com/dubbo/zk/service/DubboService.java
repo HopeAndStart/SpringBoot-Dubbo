@@ -1,4 +1,4 @@
-package com.aisino.dubbo.zk.service;
+package com.dubbo.zk.service;
 
 /**
  * @author zsl
