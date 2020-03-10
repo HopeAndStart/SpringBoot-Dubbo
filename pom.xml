@@ -30,7 +30,7 @@
         <dubbo.version>2.7.3</dubbo.version>
         <validation.api.version>1.1.0.Final</validation.api.version>
         <resteasy.client.version>3.0.7.Final</resteasy.client.version>
-        <zookeeper.version>3.4.13</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <curator.version>4.0.0</curator.version>
     </properties>
 
