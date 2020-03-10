@@ -19,6 +19,7 @@
         <module>zk-cluster-provider</module>
         <module>zk-cluster-consumer</module>
         <module>zk-cluster-service</module>
+        <module>zk-cluster-util</module>
     </modules>
 
     <properties>
